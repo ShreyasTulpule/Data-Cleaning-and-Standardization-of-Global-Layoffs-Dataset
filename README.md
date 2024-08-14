@@ -3,7 +3,7 @@
 ## Objective:
 Improve data quality and reliability for analysis by cleaning and standardizing a global layoff dataset.
 
-## Technologies Used
+## Technologies used:
 SQL, MySQL
 
 ## Description:
