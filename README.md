@@ -19,7 +19,7 @@ Undertook a comprehensive project to clean and standardize a global layoffs data
 
 
 
-## **Steps**
+<!-- ## **Steps**
 
 1. Initial Setup: Switch to the target database world_layoffs. View the original layoffs table to understand the data structure.
 
@@ -33,7 +33,7 @@ Undertook a comprehensive project to clean and standardize a global layoffs data
 
 6. Removing Redundant Rows and Columns: Delete rows where key columns (e.g., total_laid_off, percentage_laid_off) contain NULL values. Drop the row_num column as it is no longer needed after deduplication.
 
-7. Final Data Review: Inspect the cleaned and standardized data in layoff_staging_2 to ensure all steps have been correctly implemented.
+7. Final Data Review: Inspect the cleaned and standardized data in layoff_staging_2 to ensure all steps have been correctly implemented. -->
    
 ## **Conclusion**
-This project provides a structured approach to data cleaning, focusing on deduplication, standardization, and handling missing values. By following these steps, the layoff dataset becomes more reliable and suitable for detailed analysis, supporting better decision-making and insights.
+Delivered a high-quality, consistent dataset, enhancing analysis accuracy and decision-making.
